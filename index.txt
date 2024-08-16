@@ -1,3 +1,4 @@
 gencler necesiz
 
-bashqa developer yazdigi kod
+mkdir pb502
+
