@@ -3,4 +3,6 @@ gencler necesiz
 mkdir pb502
 
 touch hesabat
+identity btanch kodu
+
 
